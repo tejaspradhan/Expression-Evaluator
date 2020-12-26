@@ -1,6 +1,6 @@
 # Expression-Evaluator
 
-Course Project for the subject - Compiler Design
+#### Course Project for the subject - Compiler Design
 
 A web application which takes a mathematical expression written in English
 and evaluates it.
@@ -11,5 +11,5 @@ The evaluation follows the below steps:
 4) evaluating the code
 
 Eg. (add 2 3) 
-This evaluates to 5
+*This evaluates to 5*
 
