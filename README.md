@@ -11,3 +11,5 @@ The evaluation follows the below steps:
 4) evaluating the code
 
 Eg. (add 2 3) 
+This evaluates to 5
+
