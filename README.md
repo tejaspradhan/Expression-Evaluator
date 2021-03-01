@@ -14,3 +14,4 @@ The evaluation follows the below steps:
 Eg. (add 2 3) 
 *This evaluates to 5*
 
+run using - node compiler.js
